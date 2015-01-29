@@ -3,5 +3,5 @@ Guia para el taller de frontend para que te familiarices con HTML, CSS, y Javasc
 La información que veremos en Frontend se estará recopilando en este repo.
 
 Los temas que veremos son:
-* Introduccion A HTML 
-* Etiquetas HTML
+* [Introduccion A HTML](https://github.com/WWCodeMID/Frontend/blob/master/IntroduccionHTML.md)
+* [Etiquetas HTML](https://github.com/WWCodeMID/Frontend/blob/master/EtiquetasHTML.md)
