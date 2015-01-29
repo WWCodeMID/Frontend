@@ -26,7 +26,7 @@ Necesitarás arrancar tu editor de texto (como Sublime Text, Komod Edit, o Text 
 
 Crea un nuevo archivo y nómbralo **hello.html **. (En algunos editores, puede que necesites agregar el tipo de archivo 'HTML'; pero usualmente, la extensión .html será suficiente.)
 
-![alt tag]()
+![alt tag](https://github.com/WWCodeMID/Frontend/blob/master/img/hello.PNG)
 
 Nota que la extensión es .html. Le indica al navegador que el contenido lo debe desplegar como HTML.
 
@@ -38,9 +38,9 @@ Escribe en el documento HTML que acabas de crear:
 Guarda el archivo en un lugar donde puedas encontrarlo fácilmente. Como sugerencia crea tu carpeta de Frontend.
 
 ###Paso 2
-Abre Chrome y ve al menú Archivo, Abrir Archivo, después selecciona el archivo de tu escitorio o de cualquier lugar donde lo hayas puesto.
+Abre Chrome y ve al menú Archivo, Abrir Archivo, después selecciona el archivo de donde lo hayas puesto.
 
-![alt tag]()
+![alt tag](https://github.com/WWCodeMID/Frontend/blob/master/img/helloWorld.PNG)
 
 Aunque tu archivo no contenga una etiqueta HTML aún, los navegadores son buenos mostrando texto en pantalla, así que el navegador te mostrará tu texto.
 
@@ -54,7 +54,7 @@ Actualiza el contenido de tu archivo hello.html para que luzca así:
 
 La etiqueta HTML em le dice a tu navegador que agregue énfasis a esa cadena de texto. Recarga tu navegador y verás el efecto:
 
-![alt tag]()
+![alt tag](https://github.com/WWCodeMID/Frontend/blob/master/img/helloWorld.PNG)
 
 ###HTML son Etiquetas
 
